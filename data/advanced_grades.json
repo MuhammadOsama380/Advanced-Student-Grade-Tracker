@@ -1,1 +1,35 @@
-
+{
+    "1": {
+        "Name": "Osama",
+        "Courses": {
+            "Pyhton": 80.0,
+            "JavaScript": 75.0,
+            "DataScience": 80.0
+        },
+        "Attendance": "90%",
+        "Remarks": "Good",
+        "GPA": 3.13
+    },
+    "2": {
+        "Name": "Uzair",
+        "Courses": {
+            "Pyhton": 90.0,
+            "JavaScript": 95.0,
+            "DataScience": 96.0
+        },
+        "Attendance": "85%",
+        "Remarks": "Excellent",
+        "GPA": 3.75
+    },
+    "3": {
+        "Name": "Sultan",
+        "Courses": {
+            "Pyhton": 60.0,
+            "JavaScript": 55.0,
+            "DataScience": 95.0
+        },
+        "Attendance": "70%",
+        "Remarks": "Satisfactory",
+        "GPA": 2.8
+    }
+}
